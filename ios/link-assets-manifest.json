@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/font/MontserratAlternates-Bold.ttf",
+      "sha1": "ee2c78fd0af8aa895f15a93f9a61e13a960c17f3"
+    },
+    {
+      "path": "src/assets/font/MontserratAlternates-Medium.ttf",
+      "sha1": "f3c1c9e778680061c35ec512c918f1a630868872"
+    },
+    {
+      "path": "src/assets/font/MontserratAlternates-Regular.ttf",
+      "sha1": "8a441a013bb65edb42d747efc85caba6d4149464"
+    },
+    {
+      "path": "src/assets/font/MontserratAlternates-SemiBold.ttf",
+      "sha1": "6127c80406ce668cd1d623c40e79a62de3f5d2e0"
+    },
+    {
+      "path": "src/assets/font/Orbitron-SemiBold.ttf",
+      "sha1": "b215bd869311d5867d470a676ca7bd3a65810f2e"
+    },
+    {
+      "path": "src/assets/font/Orbitron.ttf",
+      "sha1": "ba52dd805e36e1dbd16d6afaeabdbe1449ef192e"
+    }
+  ]
+}
